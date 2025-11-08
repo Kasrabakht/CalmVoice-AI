@@ -20,6 +20,7 @@ CalmVoice is an empathetic, voice-first companion that turns every conversation 
 - [Development Notes](#development-notes)
 - [Troubleshooting](#troubleshooting)
 - [Roadmap Ideas](#roadmap-ideas)
+- [Contributing](#contributing)
 
 ---
 
