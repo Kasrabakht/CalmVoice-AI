@@ -20,8 +20,6 @@ CalmVoice is an empathetic, voice-first companion that turns every conversation 
 - [Development Notes](#development-notes)
 - [Troubleshooting](#troubleshooting)
 - [Roadmap Ideas](#roadmap-ideas)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -63,7 +61,7 @@ CalmVoice is an empathetic, voice-first companion that turns every conversation 
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/<your-handle>/CalmVoice-FinalVersion.git
+git clone https://github.com/KasraBakht/CalmVoice-FinalVersion.git
 cd CalmVoice-FinalVersion
 
 # Backend
@@ -184,11 +182,4 @@ Pull requests are welcome! If you plan a larger change:
 3. Submit a PR with clear commits and testing notes.
 
 ---
-
-## License
-No explicit license is included yet. Add a `LICENSE` file before publishing broadly so others understand how the project can be used.
-
----
-
-_Built with care to help people feel heard._
 
